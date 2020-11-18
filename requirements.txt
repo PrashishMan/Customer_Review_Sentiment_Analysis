@@ -70,7 +70,7 @@ music21==5.5.0
 nbconvert==5.4.0
 nbformat==4.4.0
 nltk==3.4
-notebook==5.7.2
+notebook==6.1.5
 numpy==1.14.5
 oauthlib==3.0.0
 opencv-python==3.4.3.18
