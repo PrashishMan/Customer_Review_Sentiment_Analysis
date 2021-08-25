@@ -117,7 +117,7 @@ sklearn-crfsuite==0.3.6
 soupsieve==1.7.3
 spacy==2.0.12
 tabulate==0.8.2
-tensorflow==0.12.0
+tensorflow==2.5.1
 terminado==0.8.1
 testpath==0.4.2
 thinc==6.10.3
